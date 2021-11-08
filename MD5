@@ -1,0 +1,11 @@
+cc6775df50eedecae482d6653a52935e *DESCRIPTION
+454ed6127dd0bf3c4a0040a4e7891c76 *NAMESPACE
+86ecfa3c01413d40c7e6524815e2559f *R/HCAA_Portfolio.R
+047e07d0ff73d2fc269cd04af546ecea *R/HRP_Portfolio.R
+225fe1cf06ff216990cb78ec3aed926b *README.md
+5e539ed9a9db4e794e83a28547d29e69 *data/daily_returns.RData
+0d40eb839480b2f69999ff77370be597 *data/mldp_returns.RData
+f62aaca7dba98912b4ff0b6df4145fdf *man/HCAA_Portfolio.Rd
+32ee1325733a5d0eeadee68b13501cdf *man/HRP_Portfolio.Rd
+f989f95ab6592d303f7151fd41b75d74 *man/daily_returns.Rd
+9d5d7988e3b4f7b540f17678e7518c6d *man/mldp_returns.Rd
